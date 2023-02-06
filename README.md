@@ -4,8 +4,6 @@
 
 App has been published on Google Play and is available [here](https://play.google.com/store/apps/details?id=com.bazinga.jokes) with more details.
 
-> The motivation for creating this project was learning new technologies :mortar_board:
-
 ---
 
 ![Screenshot](screenshot.png)
